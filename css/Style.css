@@ -1,0 +1,202 @@
+* { margin: 0; padding:0; }
+body{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 75%;
+    margin:auto;
+    
+}
+header{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black; 
+    padding: 1%;
+    margin: 2%;
+    background-color: rgb(19, 19, 56);
+   
+}
+header img{  
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 25%; 
+}
+nav{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+    padding:2%;
+    margin: 2%;
+    background-color: rgb(19, 19, 56);
+    margin-bottom: 0px;
+}
+nav li{
+    display: inline;
+    margin: 4.8%;
+    font-size: larger;
+  
+   
+}
+
+main{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+    padding:2%;
+    margin: 2%;
+    background-color: rgb(19, 19, 56);
+    float:left;
+    width: 50%;
+    
+   
+}
+#main1{
+  background-color: white;  
+}
+#bota1{
+    width: 50%;
+    
+}
+#bota2{
+    width: 50%;
+  
+   
+    }
+main h1{
+    margin-bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    color:  rgb(19, 19, 56););
+}
+main h2{
+    color: rgb(248, 248, 248);
+   
+    font-size: larger;
+    background-color: rgb(19, 19, 56);
+    
+}
+section{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+    background-color: rgb(19, 19, 56);
+    width: 35%;
+    padding:2%;
+    margin: 2%;
+   
+    margin-left: 0px;
+    float: right;
+   
+}
+section h2{
+    display: inline;
+}
+#adidas{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color:rgb(19, 19, 56) ;
+    color:white;
+}
+#adidaslogo{
+    width: 70px;
+    margin-left: 25px;
+}
+
+#nike{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color: white;
+}
+#nikelogo{
+    width: 80px;
+    height: 70px;
+    margin-left: 30px;
+}
+#puma{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color:rgb(19, 19, 56) ;
+    color:white;
+}
+#pumalogo{
+    width: 75px;
+    margin-left: 30px;
+}
+#joma{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color: white;
+}
+#jomalogo{
+    width: 75px;
+    margin-left: 30px;
+}
+#new{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color:rgb(19, 19, 56) ;
+    color:white;
+    
+}
+#newbalancelogo{
+    width: 75px;
+    margin-left: 25px;
+}
+#munich{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-bottom: 2%;
+    background-color: white;
+}
+#munichlogo{
+    width: 70px;
+    margin-left: 25px;  
+}
+footer{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 15px;
+    padding: 15px;
+    clear: right;
+    background-color:rgb(19, 19, 56) ;
+    color: blanchedalmond;
+
+   
+}
+#munich:hover,#nike:hover,#adidas:hover,#puma:hover,#new:hover,#joma:hover {
+    background-color: black;
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+}
+nav li:hover{
+    background-color: black;
+    
+}
+#bota1:hover,#bota2:hover{
+    background-color: black;
+    border-color: blanchedalmond;
+   
+}
+#videophantom{
+    width: 200px;
+    margin-top: 10px;
+}
+
